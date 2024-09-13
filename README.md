@@ -1,2 +1,2 @@
-# odin-recipes
-A basic recipe website. This project is to practice my HTML knowledge.
+# odin-recipes A basic recipe website. This project is to practice my HTML knowledge.
+
